@@ -360,7 +360,7 @@ function allReady(thresholds, sampleText) {
    * @param {String} request body text
    */
   function getToneAnalysis(text) {
-    $.post('/api/tone', {'text': text }, toneCallback)
+    $.post('/api/tone', {'text': text, 'type':  $('input[name=rb]:checked').val() }, toneCallback)
       .fail(_error);
   }
 
@@ -393,6 +393,7 @@ function allReady(thresholds, sampleText) {
     $output.hide();
     $error.hide();
     scrollTo($loading);
+    
     getToneAnalysis($textarea.val());
   });
 
