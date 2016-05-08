@@ -425,6 +425,9 @@ function allReady(thresholds, sampleText, twitterText) {
     $output.hide();
     $error.hide();
     $graph.hide();
+
+    $('.circular').css('width', '50px');
+    $('.circular').css('height', '50px');
     $('.hide-header').hide();
 
     scrollTo($graph);
@@ -488,8 +491,9 @@ function allReady(thresholds, sampleText, twitterText) {
     for(var i in _nodes) {
         for(var j in _nodes) {
             if(i >= j) continue;
-            _edges.push({"from": _nodes[i]['id'], "to": _nodes[j]['id'], "length": 600});
+            _edges.push({"from": _nodes[i]['id'], "to": _nodes[j]['id'], "length": 400});
         }
+        break
     }
 
     return { 'nodes': _nodes, 'edges': _edges }
@@ -512,18 +516,22 @@ function allReady(thresholds, sampleText, twitterText) {
       },
       nodes: {
         borderWidth: 4,
-        size: 30,
+        size: 100,
         color: {
           border: '#406897',
           background: '#6AAFFF'
         },
         font:{color:'#111111'},
         shapeProperties: {
-          useBorderWithImage:true
+          useBorderWithImage: true
         }
       },
       edges: {
         color: 'white'
+      },
+      physics: true,
+      layout: {
+        randomSeed:2
       }
     };
     network = new vis.Network(container, data, options);
