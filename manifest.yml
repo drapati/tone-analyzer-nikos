@@ -5,9 +5,9 @@ declared-services:
     plan: beta
 applications:
 - services:
-  - tone-analyzer-service
-  name: tone-analyzer-nikos
+  - tone-analyzer-svc
+  name: watson-elections
   command: npm start
   path: .
-  instances: 2
-  memory: 512MB
+  instances: 1
+  memory: 128MB
