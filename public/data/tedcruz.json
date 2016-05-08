@@ -50,8 +50,8 @@
             "tone_name": "Tentative"
           }
         ],
-        "category_id": "language_tone",
-        "category_name": "Language Tone"
+        "category_id": "writing_tone",
+        "category_name": "Writing Tone"
       },
       {
         "tones": [
@@ -142,8 +142,8 @@
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -234,8 +234,8 @@
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -326,8 +326,8 @@
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -418,8 +418,8 @@
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -510,8 +510,8 @@
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -602,8 +602,8 @@
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -694,8 +694,8 @@
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -786,8 +786,8 @@
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -878,8 +878,8 @@
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -917,8 +917,7 @@
     },
     {
       "sentence_id": 9,
-      "text": "Proven Record
-Social2FINAL",
+      "text": "Proven Record Social2FINAL",
       "input_from": 887,
       "input_to": 913,
       "tone_categories": [
@@ -969,26 +968,26 @@ Social2FINAL",
               "score": 0,
               "tone_id": "Analytical",
               "tone_name": "Analytical",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Confident",
               "tone_name": "Confident",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Tentative",
               "tone_name": "Tentative",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1089,8 +1088,8 @@ Social2FINAL",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1181,8 +1180,8 @@ Social2FINAL",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1273,8 +1272,8 @@ Social2FINAL",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1365,8 +1364,8 @@ Social2FINAL",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1457,8 +1456,8 @@ Social2FINAL",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1549,8 +1548,8 @@ Social2FINAL",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1641,8 +1640,8 @@ Social2FINAL",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1733,8 +1732,8 @@ Social2FINAL",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [

@@ -20,6 +20,7 @@
 /*
  * JQuery on ready callback function
  */
+var twitterText = undefined;
 function ready() {
 
   // CSRF protection
@@ -34,16 +35,32 @@ function ready() {
     $.ajax('/data/threshold_v0.1.1.json'),
     $.ajax('/data/customer-call.txt'),
     $.ajax('/data/corporate-announcement.txt'),
-    $.ajax('/data/personal-email.txt'))
-    .done(function(thresholds, customerCall, corporateAnnouncement, personalEmail) {
+    $.ajax('/data/personal-email.txt'),
+    $.ajax('/data/bernie.json'),
+    $.ajax('/data/hillary.json'),
+    $.ajax('/data/kasich.json'),
+    $.ajax('/data/tedcruz.json'),
+    $.ajax('/data/trump.json'))
+    .done(function(thresholds, customerCall, corporateAnnouncement, personalEmail, bernie, hillary, kasich, tedcruz, trump) {
       var sampleText = {
+        'twitter': 'trump,bernie,hillary,tedcruz,kasich',
         'customer-call': customerCall[0],
         'corporate-announcement': corporateAnnouncement[0],
         'email': personalEmail[0],
         'own-text': ''
       };
-      allReady(thresholds[0], sampleText);
+
+      twitterText = {
+        'bernie': bernie[0],
+        'hillary': hillary[0],
+        'kasich': kasich[0],
+        'tedcruz': tedcruz[0],
+        'trump': trump[0]
+      };
+
+      allReady(thresholds[0], sampleText, twitterText);
     });
+
 }
 
 /**
@@ -51,14 +68,18 @@ function ready() {
  * @param {Object} thresholds json
  * @param {Object} collection of sample text json
  */
-function allReady(thresholds, sampleText) {
+function allReady(thresholds, sampleText, twitterText) {
   var $input = $('.input'),
       $output = $('.output'),
-      $loading = $('.loading'),
+      $graph_loading = $('.graph_loading'),
+      $output_loading = $('.output_loading'),
       $error = $('.error'),
       $errorMessage = $('.error--message'),
       $inputRadio = $('.input--radio'),
-      $textarea = $('.input--textarea'),
+      $graph = $('.graph'),
+      $emotion = $('.emotion'),
+      //$textarea = $('.input--textarea'),
+      $textarea = $('.input--textbox'),
       $submitButton = $('.input--submit-button'),
       $emotionGraph = $('.summary-emotion-graph'),
       $writingGraph = $('.summary-writing-graph'),
@@ -86,12 +107,14 @@ function allReady(thresholds, sampleText) {
    * @param {Object} response data from api
    */
   function toneCallback(data) {
-
     $input.show();
-    $loading.hide();
+    $output_loading.hide();
+    $graph_loading.hide();
     $error.hide();
     $output.show();
     scrollTo($output);
+
+    //console.log(JSON.stringify(data));
 
     var emotionTone = data.document_tone.tone_categories[0].tones,
         writingTone = data.document_tone.tone_categories[1].tones,
@@ -317,6 +340,7 @@ function allReady(thresholds, sampleText) {
     }));
 
     updateFilters();
+
     matchSentenceViewsHeight();
     updateOriginalText();
     updateSentenceRank();
@@ -349,7 +373,8 @@ function allReady(thresholds, sampleText) {
         'As the CPU cores cool off a bit, wait a few seonds before sending more requests.'
     $errorMessage.html(message);
     $input.show();
-    $loading.hide();
+    $output_loading.hide();
+    $graph_loading.hide();
     $output.hide();
     $error.show();
     scrollTo($error);
@@ -360,8 +385,15 @@ function allReady(thresholds, sampleText) {
    * @param {String} request body text
    */
   function getToneAnalysis(text) {
-    $.post('/api/tone', {'text': text, 'type':  $('input[name=rb]:checked').val() }, toneCallback)
-      .fail(_error);
+    var type = $('input[name=rb]:checked').val();
+    if( type == 'twitter' ) {
+        $output_loading.show();
+        scrollTo($output);
+        toneCallback(twitterText[text]);
+    } else {
+        $.post('/api/tone', {'text': text, 'type':  type }, toneCallback)
+        .fail(_error);
+    }
   }
 
   /**
@@ -377,7 +409,8 @@ function allReady(thresholds, sampleText) {
    */
   function reset() {
     $input.show();
-    $loading.hide();
+    $graph_loading.hide();
+    $output_loading.hide();
     $output.hide();
     $error.hide();
     scrollTo($input);
@@ -389,12 +422,133 @@ function allReady(thresholds, sampleText) {
    */
   $submitButton.click(function() {
     $input.show();
-    $loading.show();
     $output.hide();
     $error.hide();
-    scrollTo($loading);
+    $graph.hide();
+    $('.hide-header').hide();
+
+    scrollTo($graph);
     
-    getToneAnalysis($textarea.val());
+    // move this another place... to show individual working.
+
+    $graph_loading.show();
+    setTimeout(function() {
+        $graph_loading.hide();
+        $graph.show();
+        var graph_data = get_graph_data('anger');
+        draw(graph_data);
+    }, 2000);
+  });
+
+  /**
+   * Graph Generation
+   */
+  var DIR = './images/';
+  var nodes = null;
+  var edges = null;
+  var network = null;
+
+
+//document_tone (hash)
+//tone_categories (array) ("category_id": "emotion_tone")
+//tones (array) ("tone_id": "anger")
+
+  var pmaps = { 'bernie': 'Bernie Sanders', 'hillary': 'Hillary Rodham Clinton', 'kasich': 'John Kasich', 'tedcruz': 'Ted Cruz', 'trump': 'Donald Trump' };
+
+  function get_graph_data(tone_id) {
+    var _nodes = [];
+    var _edges = [];
+    var id = 1;
+
+    for(var key in twitterText) {
+        var person = twitterText[key];
+        var tone_categories = person['document_tone']['tone_categories'];
+        var tones = undefined;
+        for(var i in tone_categories) {
+            if(tone_categories[i]['category_id'] == 'emotion_tone') {
+                tones = tone_categories[i]['tones'];
+                break;
+            }
+        }
+
+        for(var i in tones) {
+            if(tones[i]['tone_id'] == tone_id) {
+                var tone = tones[i];
+                var circle_size = tone['score'] * 250;
+                if(circle_size < 100) {
+                    circle_size = 100;
+                }
+                _nodes.push({id: id,  shape: 'circularImage', image: DIR + key + '-' + tone_id + '.jpg', size: circle_size, label: pmaps[key], key: key});
+                id ++;
+            }
+        }
+    }
+
+    // edges
+    for(var i in _nodes) {
+        for(var j in _nodes) {
+            if(i >= j) continue;
+            _edges.push({"from": _nodes[i]['id'], "to": _nodes[j]['id'], "length": 600});
+        }
+    }
+
+    return { 'nodes': _nodes, 'edges': _edges }
+  }
+
+  // Called when the Visualization API is loaded.
+  function draw(data) {
+    nodes = data['nodes'];
+    edges = data['edges'];
+
+    // create a network
+    var container = document.getElementById('bubblegraph');
+    var data = {
+      nodes: nodes,
+      edges: edges
+    };
+    var options = {
+      interaction: {
+        zoomView: false
+      },
+      nodes: {
+        borderWidth: 4,
+        size: 30,
+        color: {
+          border: '#406897',
+          background: '#6AAFFF'
+        },
+        font:{color:'#111111'},
+        shapeProperties: {
+          useBorderWithImage:true
+        }
+      },
+      edges: {
+        color: 'white'
+      }
+    };
+    network = new vis.Network(container, data, options);
+
+    network.on("click", function (params) {
+        if(params['nodes'].length == 0) {
+            return false;
+        }
+
+        var nodeid = params['nodes'][0];
+        var keyname = '';
+        for(var i in nodes) {
+            if( nodeid == nodes[i]['id'] ) {
+                keyname = nodes[i]['key'];
+            }
+        }
+        
+        scrollTo($output);
+        getToneAnalysis(keyname);
+    });
+  }
+
+  $emotion.click(function() {
+    var graph_data = get_graph_data($(this).text().toLowerCase());
+    draw(graph_data);
   });
 
   /**

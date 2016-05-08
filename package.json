@@ -8,18 +8,9 @@
   },
   "author": "IBM Corp.",
   "contributors": [
-    {
-      "name": "James Zhang",
-      "email": "jzhang300@us.ibm.com"
-    },
-    {
-      "name": "Eva Xiaohui Luo",
-      "email": "evaluo_xhl@us.ibm.com"
-    },
-    {
-      "name": "German Attanasio Ruiz",
-      "email": "germanatt@us.ibm.com"
-    }
+    "James Zhang <jzhang300@us.ibm.com>",
+    "Eva Xiaohui Luo <evaluo_xhl@us.ibm.com>",
+    "German Attanasio Ruiz <germanatt@us.ibm.com>"
   ],
   "license": "Apache-2.0",
   "bugs": {
@@ -52,5 +43,9 @@
     "mocha": "^2.4.5",
     "nock": "7.7.0",
     "supertest": "^1.2.0"
+  },
+  "main": "app.js",
+  "directories": {
+    "test": "test"
   }
 }

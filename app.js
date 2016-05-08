@@ -27,9 +27,9 @@ require('./config/express')(app);
 
 // Create the service wrapper
 var toneAnalyzer = watson.tone_analyzer({
-	url : 'https://gateway.watsonplatform.net/tone-analyzer-beta/api/',
-	username : '<username>',
-	password : '<password>',
+	url: "https://gateway.watsonplatform.net/tone-analyzer-beta/api",
+	password: "aQ8g5liyezGt",
+	username: "1b391dc5-f4fb-43f3-aca4-92853e670dcd",
 	version_date : '2016-11-02',
 	version : 'v3-beta'
 });
@@ -89,8 +89,9 @@ app.get('/api/twitter/:twitter_id', function(req, res) {
 app.post('/api/tone', function(req, res, next) {
 
 	// first get twitter feed
+	var sending_text = req.body.text;
 
-	// console.log('body=' + req.body);
+	//console.log('------------ body.type=' + req.body.type);
 
 	if (req.body.type == 'twitter') {
 		var client = new Twitter({
@@ -110,42 +111,31 @@ app.post('/api/tone', function(req, res, next) {
 		var twitter_text = '';
 
 		client.get('statuses/user_timeline', params, function(error, tweets, response) {
-
 			if (!error) {
-
 				for (var i=0; i < tweets.length; i++){
 					twitter_text = twitter_text + ' ' + tweets[i].text;
 				}
 
 				console.log('twitter_text1=' + twitter_text);
-
-				toneAnalyzer.tone({
-					"text" : twitter_text
-				}, function(err, data) {
-					if (err)
-						return next(err);
-					else
-						return res.json(data);
-				});
-			} else
+				sending_text = twitter_text;
+			} else {
 				console.log(error);
 				return error;
-
-		});
-
-	} else {
-
-		toneAnalyzer.tone({
-			"text" : req.body.text
-		}, function(err, data) {
-			if (err)
-				return next(err);
-			else
-				return res.json(data);
+			}
 		});
 
 	}
 
+	sending_text = sending_text.replace(/^([a-zA-Z0-9 _-]+)$/gi,'');
+	toneAnalyzer.tone({
+		"text" : sending_text
+	}, function(err, data) {
+		if (err) {
+			return next(err);
+		} else {
+			return res.json(data);
+		}
+	});
 });
 
 // error-handler application settings

@@ -50,8 +50,8 @@
             "tone_name": "Tentative"
           }
         ],
-        "category_id": "language_tone",
-        "category_name": "Language Tone"
+        "category_id": "writing_tone",
+        "category_name": "Writing Tone"
       },
       {
         "tones": [
@@ -89,8 +89,7 @@
   "sentences_tone": [
     {
       "sentence_id": 0,
-      "text": "AMERICA’S ECONOMIC REVIVAL STARTS WITH US
-A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influence",
+      "text": "AMERICA’S ECONOMIC REVIVAL STARTS WITH US A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influence",
       "input_from": 0,
       "input_to": 123,
       "tone_categories": [
@@ -143,8 +142,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -235,8 +234,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -327,8 +326,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -419,8 +418,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -511,8 +510,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -603,8 +602,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -695,8 +694,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -787,8 +786,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -879,8 +878,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -971,8 +970,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1063,8 +1062,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1155,8 +1154,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1247,8 +1246,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1339,8 +1338,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1431,8 +1430,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1523,8 +1522,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1615,8 +1614,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1705,26 +1704,26 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "score": 0,
               "tone_id": "Analytical",
               "tone_name": "Analytical",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Confident",
               "tone_name": "Confident",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Tentative",
               "tone_name": "Tentative",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1825,8 +1824,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1915,26 +1914,26 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "score": 0,
               "tone_id": "Analytical",
               "tone_name": "Analytical",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Confident",
               "tone_name": "Confident",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Tentative",
               "tone_name": "Tentative",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -2035,8 +2034,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -2127,8 +2126,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -2219,8 +2218,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -2311,8 +2310,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -2403,8 +2402,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -2495,8 +2494,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -2587,8 +2586,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -2679,8 +2678,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -2771,8 +2770,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -2863,8 +2862,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -2955,8 +2954,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -3047,8 +3046,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -3139,8 +3138,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -3231,8 +3230,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -3323,8 +3322,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -3415,8 +3414,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -3507,8 +3506,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -3599,8 +3598,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -3689,26 +3688,26 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "score": 0,
               "tone_id": "Analytical",
               "tone_name": "Analytical",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Confident",
               "tone_name": "Confident",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Tentative",
               "tone_name": "Tentative",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -3809,8 +3808,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -3899,26 +3898,26 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "score": 0,
               "tone_id": "Analytical",
               "tone_name": "Analytical",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Confident",
               "tone_name": "Confident",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Tentative",
               "tone_name": "Tentative",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -4019,8 +4018,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -4111,8 +4110,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -4203,8 +4202,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -4295,8 +4294,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -4387,8 +4386,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -4479,8 +4478,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -4571,8 +4570,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -4663,8 +4662,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -4753,26 +4752,26 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "score": 0,
               "tone_id": "Analytical",
               "tone_name": "Analytical",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Confident",
               "tone_name": "Confident",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Tentative",
               "tone_name": "Tentative",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -4873,8 +4872,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -4965,8 +4964,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -5055,26 +5054,26 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "score": 0,
               "tone_id": "Analytical",
               "tone_name": "Analytical",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Confident",
               "tone_name": "Confident",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Tentative",
               "tone_name": "Tentative",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -5175,8 +5174,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -5267,8 +5266,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -5357,26 +5356,26 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "score": 0,
               "tone_id": "Analytical",
               "tone_name": "Analytical",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Confident",
               "tone_name": "Confident",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Tentative",
               "tone_name": "Tentative",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -5477,8 +5476,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -5569,8 +5568,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -5659,26 +5658,26 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "score": 0,
               "tone_id": "Analytical",
               "tone_name": "Analytical",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Confident",
               "tone_name": "Confident",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Tentative",
               "tone_name": "Tentative",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -5779,8 +5778,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -5869,26 +5868,26 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "score": 0,
               "tone_id": "Analytical",
               "tone_name": "Analytical",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Confident",
               "tone_name": "Confident",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Tentative",
               "tone_name": "Tentative",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -5989,8 +5988,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -6081,8 +6080,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -6173,8 +6172,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -6265,8 +6264,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -6357,8 +6356,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -6449,8 +6448,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -6541,8 +6540,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -6633,8 +6632,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -6723,26 +6722,26 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "score": 0,
               "tone_id": "Analytical",
               "tone_name": "Analytical",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Confident",
               "tone_name": "Confident",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Tentative",
               "tone_name": "Tentative",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -6843,8 +6842,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -6935,8 +6934,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -7027,8 +7026,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -7119,8 +7118,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -7211,8 +7210,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -7301,26 +7300,26 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "score": 0,
               "tone_id": "Analytical",
               "tone_name": "Analytical",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Confident",
               "tone_name": "Confident",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Tentative",
               "tone_name": "Tentative",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -7421,8 +7420,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -7513,8 +7512,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -7605,8 +7604,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -7697,8 +7696,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -7789,8 +7788,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -7881,8 +7880,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -7973,8 +7972,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -8065,8 +8064,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -8157,8 +8156,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -8249,8 +8248,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -8341,8 +8340,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -8433,8 +8432,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -8525,8 +8524,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -8617,8 +8616,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -8709,8 +8708,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -8799,26 +8798,26 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "score": 0,
               "tone_id": "Analytical",
               "tone_name": "Analytical",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Confident",
               "tone_name": "Confident",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Tentative",
               "tone_name": "Tentative",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -8919,8 +8918,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -9011,8 +9010,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -9103,8 +9102,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -9195,8 +9194,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -9287,8 +9286,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -9379,8 +9378,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -9471,8 +9470,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -9563,8 +9562,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -9655,8 +9654,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -9747,8 +9746,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -9839,8 +9838,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -9931,8 +9930,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -10023,8 +10022,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -10115,8 +10114,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -10207,8 +10206,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -10299,8 +10298,8 @@ A Strategy for Dismantling Washington & Reclaiming Our Power, Money and Influenc
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [

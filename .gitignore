@@ -1,3 +1,4 @@
 .DS_Store
 run.sh
 VCAP_SERVICES.json
+node_modules

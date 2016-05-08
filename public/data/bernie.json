@@ -50,8 +50,8 @@
             "tone_name": "Tentative"
           }
         ],
-        "category_id": "language_tone",
-        "category_name": "Language Tone"
+        "category_id": "writing_tone",
+        "category_name": "Writing Tone"
       },
       {
         "tones": [
@@ -142,8 +142,8 @@
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -234,8 +234,8 @@
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -326,8 +326,8 @@
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -418,8 +418,8 @@
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -510,8 +510,8 @@
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -602,8 +602,8 @@
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -694,8 +694,8 @@
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -786,8 +786,8 @@
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -878,8 +878,8 @@
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -970,8 +970,8 @@
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1062,8 +1062,8 @@
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1154,8 +1154,8 @@
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1246,8 +1246,8 @@
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1338,8 +1338,8 @@
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1377,8 +1377,7 @@
     },
     {
       "sentence_id": 14,
-      "text": "– Pope Francis
-There is something profoundly wrong when 58 percent of all new income since the Wall Street crash has gone to the top one percent.",
+      "text": "– Pope Francis There is something profoundly wrong when 58 percent of all new income since the Wall Street crash has gone to the top one percent.",
       "input_from": 1887,
       "input_to": 2032,
       "tone_categories": [
@@ -1431,8 +1430,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1523,8 +1522,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1615,8 +1614,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1707,8 +1706,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1799,8 +1798,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1891,8 +1890,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -1983,8 +1982,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -2075,8 +2074,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -2167,8 +2166,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -2259,8 +2258,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -2351,8 +2350,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -2443,8 +2442,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -2535,8 +2534,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -2627,8 +2626,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -2719,8 +2718,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -2811,8 +2810,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -2903,8 +2902,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -2995,8 +2994,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -3087,8 +3086,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -3179,8 +3178,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -3271,8 +3270,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -3363,8 +3362,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -3455,8 +3454,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -3547,8 +3546,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -3639,8 +3638,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -3731,8 +3730,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -3823,8 +3822,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -3915,8 +3914,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -4007,8 +4006,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -4099,8 +4098,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -4191,8 +4190,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -4283,8 +4282,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -4375,8 +4374,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -4467,8 +4466,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -4559,8 +4558,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -4651,8 +4650,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -4743,8 +4742,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -4835,8 +4834,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -4927,8 +4926,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -5019,8 +5018,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -5111,8 +5110,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -5203,8 +5202,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -5295,8 +5294,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -5387,8 +5386,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -5479,8 +5478,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -5571,8 +5570,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -5663,8 +5662,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -5755,8 +5754,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -5847,8 +5846,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -5939,8 +5938,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -6031,8 +6030,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -6123,8 +6122,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -6215,8 +6214,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -6307,8 +6306,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -6399,8 +6398,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -6491,8 +6490,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -6583,8 +6582,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -6675,8 +6674,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -6767,8 +6766,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -6859,8 +6858,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -6951,8 +6950,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -7043,8 +7042,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -7135,8 +7134,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -7227,8 +7226,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -7319,8 +7318,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -7411,8 +7410,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -7503,8 +7502,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -7595,8 +7594,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -7687,8 +7686,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -7779,8 +7778,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -7871,8 +7870,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -7963,8 +7962,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -8055,8 +8054,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -8147,8 +8146,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -8239,8 +8238,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -8331,8 +8330,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -8423,8 +8422,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -8515,8 +8514,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -8607,8 +8606,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -8699,8 +8698,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -8791,8 +8790,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -8883,8 +8882,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -8975,8 +8974,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -9067,8 +9066,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -9159,8 +9158,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -9251,8 +9250,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -9343,8 +9342,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -9435,8 +9434,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -9527,8 +9526,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -9619,8 +9618,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -9711,8 +9710,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -9803,8 +9802,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -9895,8 +9894,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -9987,8 +9986,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -10079,8 +10078,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -10171,8 +10170,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -10263,8 +10262,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -10355,8 +10354,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -10447,8 +10446,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -10539,8 +10538,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -10631,8 +10630,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -10723,8 +10722,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -10815,8 +10814,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -10907,8 +10906,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -10999,8 +10998,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -11091,8 +11090,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -11183,8 +11182,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -11275,8 +11274,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -11367,8 +11366,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -11459,8 +11458,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -11551,8 +11550,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -11643,8 +11642,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -11735,8 +11734,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -11827,8 +11826,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -11919,8 +11918,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -12011,8 +12010,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -12103,8 +12102,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -12195,8 +12194,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -12287,8 +12286,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -12379,8 +12378,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -12471,8 +12470,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -12563,8 +12562,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -12655,8 +12654,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -12747,8 +12746,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -12839,8 +12838,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -12931,8 +12930,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -13023,8 +13022,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -13115,8 +13114,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -13207,8 +13206,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -13299,8 +13298,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -13391,8 +13390,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -13483,8 +13482,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -13575,8 +13574,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -13667,8 +13666,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -13759,8 +13758,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -13851,8 +13850,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -13943,8 +13942,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -14035,8 +14034,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -14127,8 +14126,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -14219,8 +14218,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -14311,8 +14310,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -14403,8 +14402,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -14495,8 +14494,8 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -14585,26 +14584,26 @@ There is something profoundly wrong when 58 percent of all new income since the 
               "score": 0,
               "tone_id": "Analytical",
               "tone_name": "Analytical",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Confident",
               "tone_name": "Confident",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Tentative",
               "tone_name": "Tentative",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -14652,8 +14651,7 @@ There is something profoundly wrong when 58 percent of all new income since the 
     },
     {
       "sentence_id": 158,
-      "text": "PUTTING 13 MILLION AMERICANS TO WORK
-A PLAN TO REBUILD AMERICA",
+      "text": "PUTTING 13 MILLION AMERICANS TO WORK A PLAN TO REBUILD AMERICA",
       "input_from": 20002,
       "input_to": 20064,
       "tone_categories": [
@@ -14706,8 +14704,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -14798,8 +14796,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -14890,8 +14888,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -14982,8 +14980,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -15074,8 +15072,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -15166,8 +15164,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -15258,8 +15256,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -15350,8 +15348,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -15442,8 +15440,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -15534,8 +15532,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -15626,8 +15624,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -15718,8 +15716,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -15810,8 +15808,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -15902,8 +15900,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -15994,8 +15992,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -16086,8 +16084,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -16178,8 +16176,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -16270,8 +16268,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -16362,8 +16360,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -16454,8 +16452,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -16546,8 +16544,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -16638,8 +16636,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -16730,8 +16728,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -16822,8 +16820,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -16914,8 +16912,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -17006,8 +17004,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -17098,8 +17096,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -17190,8 +17188,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -17282,8 +17280,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -17374,8 +17372,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -17466,8 +17464,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -17558,8 +17556,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -17650,8 +17648,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -17742,8 +17740,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -17834,8 +17832,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -17926,8 +17924,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -18018,8 +18016,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -18110,8 +18108,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -18202,8 +18200,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -18294,8 +18292,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -18386,8 +18384,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -18478,8 +18476,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -18570,8 +18568,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -18662,8 +18660,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -18754,8 +18752,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -18846,8 +18844,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -18938,8 +18936,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -19030,8 +19028,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -19122,8 +19120,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -19214,8 +19212,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -19306,8 +19304,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -19398,8 +19396,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -19490,8 +19488,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -19582,8 +19580,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -19674,8 +19672,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -19766,8 +19764,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -19858,8 +19856,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -19950,8 +19948,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -20042,8 +20040,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -20132,26 +20130,26 @@ A PLAN TO REBUILD AMERICA",
               "score": 0,
               "tone_id": "Analytical",
               "tone_name": "Analytical",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Confident",
               "tone_name": "Confident",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Tentative",
               "tone_name": "Tentative",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -20250,26 +20248,26 @@ A PLAN TO REBUILD AMERICA",
               "score": 0,
               "tone_id": "Analytical",
               "tone_name": "Analytical",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Confident",
               "tone_name": "Confident",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Tentative",
               "tone_name": "Tentative",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -20368,26 +20366,26 @@ A PLAN TO REBUILD AMERICA",
               "score": 0,
               "tone_id": "Analytical",
               "tone_name": "Analytical",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Confident",
               "tone_name": "Confident",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Tentative",
               "tone_name": "Tentative",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -20488,8 +20486,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -20580,8 +20578,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -20672,8 +20670,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -20764,8 +20762,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -20856,8 +20854,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -20948,8 +20946,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -21038,26 +21036,26 @@ A PLAN TO REBUILD AMERICA",
               "score": 0,
               "tone_id": "Analytical",
               "tone_name": "Analytical",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Confident",
               "tone_name": "Confident",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Tentative",
               "tone_name": "Tentative",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -21158,8 +21156,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -21250,8 +21248,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -21342,8 +21340,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -21434,8 +21432,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -21526,8 +21524,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -21618,8 +21616,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -21710,8 +21708,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -21802,8 +21800,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -21892,26 +21890,26 @@ A PLAN TO REBUILD AMERICA",
               "score": 0,
               "tone_id": "Analytical",
               "tone_name": "Analytical",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Confident",
               "tone_name": "Confident",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Tentative",
               "tone_name": "Tentative",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -22012,8 +22010,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -22104,8 +22102,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -22196,8 +22194,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -22288,8 +22286,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -22380,8 +22378,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -22470,26 +22468,26 @@ A PLAN TO REBUILD AMERICA",
               "score": 0,
               "tone_id": "Analytical",
               "tone_name": "Analytical",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Confident",
               "tone_name": "Confident",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Tentative",
               "tone_name": "Tentative",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -22590,8 +22588,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -22682,8 +22680,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -22774,8 +22772,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -22866,8 +22864,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -22958,8 +22956,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -23050,8 +23048,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -23142,8 +23140,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -23234,8 +23232,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -23326,8 +23324,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -23416,26 +23414,26 @@ A PLAN TO REBUILD AMERICA",
               "score": 0,
               "tone_id": "Analytical",
               "tone_name": "Analytical",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Confident",
               "tone_name": "Confident",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Tentative",
               "tone_name": "Tentative",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -23536,8 +23534,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -23628,8 +23626,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -23720,8 +23718,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -23812,8 +23810,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -23902,26 +23900,26 @@ A PLAN TO REBUILD AMERICA",
               "score": 0,
               "tone_id": "Analytical",
               "tone_name": "Analytical",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Confident",
               "tone_name": "Confident",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Tentative",
               "tone_name": "Tentative",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -24022,8 +24020,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -24114,8 +24112,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -24206,8 +24204,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -24298,8 +24296,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -24337,8 +24335,7 @@ A PLAN TO REBUILD AMERICA",
     },
     {
       "sentence_id": 261,
-      "text": "Introduced a tax on Wall Street speculation to make public colleges and universities tuition-free
-    Supports capping credit card interest rates at 15%.",
+      "text": "Introduced a tax on Wall Street speculation to make public colleges and universities tuition-free Supports capping credit card interest rates at 15%.",
       "input_from": 32658,
       "input_to": 32811,
       "tone_categories": [
@@ -24391,8 +24388,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -24483,8 +24480,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -24575,8 +24572,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -24667,8 +24664,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -24759,8 +24756,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -24851,8 +24848,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -24943,8 +24940,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -25035,8 +25032,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -25127,8 +25124,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -25219,8 +25216,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -25311,8 +25308,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -25403,8 +25400,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -25495,8 +25492,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -25587,8 +25584,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -25679,8 +25676,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -25771,8 +25768,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -25861,26 +25858,26 @@ A PLAN TO REBUILD AMERICA",
               "score": 0,
               "tone_id": "Analytical",
               "tone_name": "Analytical",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Confident",
               "tone_name": "Confident",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Tentative",
               "tone_name": "Tentative",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -25981,8 +25978,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -26073,8 +26070,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -26165,8 +26162,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -26257,8 +26254,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -26349,8 +26346,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -26441,8 +26438,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -26533,8 +26530,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -26625,8 +26622,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -26717,8 +26714,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -26807,26 +26804,26 @@ A PLAN TO REBUILD AMERICA",
               "score": 0,
               "tone_id": "Analytical",
               "tone_name": "Analytical",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Confident",
               "tone_name": "Confident",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Tentative",
               "tone_name": "Tentative",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -26927,8 +26924,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -26966,8 +26963,7 @@ A PLAN TO REBUILD AMERICA",
     },
     {
       "sentence_id": 289,
-      "text": "Sen. Sanders’ tax reform plan accomplishes that goal by closing loopholes that benefit the wealthy and well connected, making the tax code more progressive, and establishing a tax on Wall Street speculators whose greed, recklessness and illegal behavior nearly destroyed the economy seven years ago.
-1. Reforming the Corporate Tax Code",
+      "text": "Sen. Sanders’ tax reform plan accomplishes that goal by closing loopholes that benefit the wealthy and well connected, making the tax code more progressive, and establishing a tax on Wall Street speculators whose greed, recklessness and illegal behavior nearly destroyed the economy seven years ago.  1. Reforming the Corporate Tax Code",
       "input_from": 35477,
       "input_to": 35812,
       "tone_categories": [
@@ -27020,8 +27016,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -27112,8 +27108,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -27204,8 +27200,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -27296,8 +27292,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -27388,8 +27384,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -27480,8 +27476,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -27572,8 +27568,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -27664,8 +27660,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -27756,8 +27752,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -27848,8 +27844,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -27940,8 +27936,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -28032,8 +28028,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -28124,8 +28120,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -28216,8 +28212,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -28308,8 +28304,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -28400,8 +28396,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -28492,8 +28488,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -28584,8 +28580,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -28676,8 +28672,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -28768,8 +28764,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -28860,8 +28856,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -28952,8 +28948,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -29044,8 +29040,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -29136,8 +29132,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -29228,8 +29224,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -29267,8 +29263,7 @@ A PLAN TO REBUILD AMERICA",
     },
     {
       "sentence_id": 314,
-      "text": "Specifically, a corporation could not claim to be from another country if their management and control operations are primarily located in the U.S.
-    Eliminate tax breaks for big oil, gas, and coal companies.",
+      "text": "Specifically, a corporation could not claim to be from another country if their management and control operations are primarily located in the U.S.  Eliminate tax breaks for big oil, gas, and coal companies.",
       "input_from": 39435,
       "input_to": 39645,
       "tone_categories": [
@@ -29321,8 +29316,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -29413,8 +29408,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -29505,8 +29500,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -29597,8 +29592,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -29689,8 +29684,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -29781,8 +29776,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -29873,8 +29868,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -29965,8 +29960,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -30057,8 +30052,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -30149,8 +30144,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -30241,8 +30236,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -30333,8 +30328,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -30425,8 +30420,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -30517,8 +30512,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -30609,8 +30604,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -30701,8 +30696,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -30793,8 +30788,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -30885,8 +30880,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -30977,8 +30972,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -31069,8 +31064,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -31161,8 +31156,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -31253,8 +31248,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -31345,8 +31340,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -31437,8 +31432,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -31529,8 +31524,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -31621,8 +31616,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -31713,8 +31708,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -31805,8 +31800,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -31897,8 +31892,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -31989,8 +31984,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -32081,8 +32076,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -32173,8 +32168,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -32265,8 +32260,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -32357,8 +32352,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -32449,8 +32444,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -32541,8 +32536,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -32633,8 +32628,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -32725,8 +32720,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -32817,8 +32812,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -32909,8 +32904,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -33001,8 +32996,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -33093,8 +33088,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -33132,8 +33127,7 @@ A PLAN TO REBUILD AMERICA",
     },
     {
       "sentence_id": 356,
-      "text": "Specifically, Senator Sanders plan would:
-        Strengthen the “generation-skipping tax,” which is designed to prevent avoidance of estate and gift taxes, by applying it with no exclusion to any trust set up to last more than 50 years.",
+      "text": "Specifically, Senator Sanders plan would: Strengthen the “generation-skipping tax,” which is designed to prevent avoidance of estate and gift taxes, by applying it with no exclusion to any trust set up to last more than 50 years.",
       "input_from": 45052,
       "input_to": 45289,
       "tone_categories": [
@@ -33186,8 +33180,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -33278,8 +33272,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -33370,8 +33364,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -33462,8 +33456,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -33554,8 +33548,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -33646,8 +33640,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -33738,8 +33732,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -33830,8 +33824,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -33922,8 +33916,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -34014,8 +34008,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -34106,8 +34100,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -34198,8 +34192,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -34290,8 +34284,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -34382,8 +34376,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -34474,8 +34468,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -34566,8 +34560,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -34658,8 +34652,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -34750,8 +34744,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -34842,8 +34836,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -34934,8 +34928,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -35026,8 +35020,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -35118,8 +35112,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -35210,8 +35204,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -35302,8 +35296,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -35394,8 +35388,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -35486,8 +35480,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -35578,8 +35572,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -35670,8 +35664,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -35762,8 +35756,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -35854,8 +35848,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -35946,8 +35940,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -36038,8 +36032,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -36130,8 +36124,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -36222,8 +36216,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -36314,8 +36308,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -36406,8 +36400,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -36498,8 +36492,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -36590,8 +36584,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -36682,8 +36676,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -36774,8 +36768,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -36866,8 +36860,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -36958,8 +36952,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -37050,8 +37044,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -37142,8 +37136,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -37234,8 +37228,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -37326,8 +37320,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -37418,8 +37412,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -37510,8 +37504,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -37602,8 +37596,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -37694,8 +37688,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -37786,8 +37780,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -37878,8 +37872,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -37970,8 +37964,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -38062,8 +38056,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -38101,8 +38095,7 @@ A PLAN TO REBUILD AMERICA",
     },
     {
       "sentence_id": 410,
-      "text": "This plan would replace the top three income tax rates (33%, 35%, and 39.6%) with more progressive rates:  
-        37% on income between $250,000 and $500,000.",
+      "text": "This plan would replace the top three income tax rates (33%, 35%, and 39.6%) with more progressive rates:  37% on income between $250,000 and $500,000.",
       "input_from": 53085,
       "input_to": 53245,
       "tone_categories": [
@@ -38155,8 +38148,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -38247,8 +38240,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -38339,8 +38332,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -38431,8 +38424,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -38523,8 +38516,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -38615,8 +38608,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -38707,8 +38700,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -38799,8 +38792,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -38891,8 +38884,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -38983,8 +38976,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -39075,8 +39068,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -39167,8 +39160,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -39259,8 +39252,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -39351,8 +39344,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -39443,8 +39436,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -39535,8 +39528,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -39627,8 +39620,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -39719,8 +39712,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -39811,8 +39804,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -39903,8 +39896,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -39995,8 +39988,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -40087,8 +40080,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -40179,8 +40172,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -40271,8 +40264,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -40363,8 +40356,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -40455,8 +40448,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -40547,8 +40540,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -40639,8 +40632,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -40731,8 +40724,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -40823,8 +40816,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -40915,8 +40908,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -41007,8 +41000,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -41099,8 +41092,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -41191,8 +41184,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -41283,8 +41276,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -41375,8 +41368,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -41467,8 +41460,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -41559,8 +41552,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -41649,26 +41642,26 @@ A PLAN TO REBUILD AMERICA",
               "score": 0,
               "tone_id": "Analytical",
               "tone_name": "Analytical",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Confident",
               "tone_name": "Confident",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             },
             {
               "score": 0,
               "tone_id": "Tentative",
               "tone_name": "Tentative",
-              "tone_category_id": "language_tone",
-              "tone_category_name": "Language Tone"
+              "tone_category_id": "writing_tone",
+              "tone_category_name": "Writing Tone"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -41769,8 +41762,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -41861,8 +41854,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -41953,8 +41946,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
@@ -42045,8 +42038,8 @@ A PLAN TO REBUILD AMERICA",
               "tone_name": "Tentative"
             }
           ],
-          "category_id": "language_tone",
-          "category_name": "Language Tone"
+          "category_id": "writing_tone",
+          "category_name": "Writing Tone"
         },
         {
           "tones": [
